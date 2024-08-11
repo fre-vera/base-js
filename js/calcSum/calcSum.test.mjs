@@ -1,4 +1,4 @@
-import {calcSum} from './calcSum.mjs';
+import { calcSum } from './calcSum.mjs';
 
 try {
   console.log(calcSum(3, 3));
