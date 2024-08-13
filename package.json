@@ -10,6 +10,8 @@
   "author": "Vera",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^8.57.0",
+    "globals": "^15.9.0",
     "typescript": "^5.5.4"
   }
 }
