@@ -1,6 +1,6 @@
 /**
  * @function calcSum
- * @param  {number[]} args
+ * @param {number[]} args
  * @throws {Error} Error: two arguments are required
  * @throws {Error} Error: both arguments must be numbers
  * @returns {number}
